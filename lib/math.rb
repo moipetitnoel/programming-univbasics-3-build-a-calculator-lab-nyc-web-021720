@@ -10,7 +10,7 @@ end
 
 def division(num1, num2)
   quotient = num1 / num2
-  quotient
+  quotient.remainder
 end
 
 def multiplication(num1, num2)
